@@ -8,6 +8,9 @@ On-Premise 3 tier Architecture project carried out by our team during the Cloud 
 
 🌐 [PROmet](https://github.com/Waji-97/PROmet-Website) - The PROmet Website created using Django framework
 
+☁️ [AWS Cloud](https://github.com/Waji-97/PROmet-Cloud-Migration-Project) - AWS Cloud Version
+
+
 ## 💡 Objective
 
 The objective of this On-Premise 3-tier Infrastructure was to deploy the PROmet job search website to the on-premise infrastructure. PROmet provides a platform for job seekers to register their resumes, portfolios, and self-introductions. Partner companies can then scout potential candidates who fit their needs, providing both job seekers and employers with better opportunities.
