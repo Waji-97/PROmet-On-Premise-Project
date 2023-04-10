@@ -4,6 +4,7 @@ PROmet On-Premise Infrastructure 구축 프로젝트는 이직 platform인 PROme
 
 ![image](https://user-images.githubusercontent.com/76054852/230912393-54f73945-a501-4db3-8281-8e6c88b4eb47.png)
 
+> Technical Documentation and a Presentation pdf files are included
 
 ## Objective
 
